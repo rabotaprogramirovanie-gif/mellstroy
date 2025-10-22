@@ -1,0 +1,25 @@
+header a {
+    padding: 10px;
+    font-size: 30px;
+    text-decoration: none;
+    background-color: white;
+    border-radius: 10px;
+}
+
+header {
+    background-color: aquamarine;
+    padding: 30px;
+    border-radius: 10px;
+    position: relative;
+    margin: 15px;
+}
+
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(				
+#FB000D,#284B7E,#65EC3B);
+}
+
+h1, li {
+    color: white;
+}
